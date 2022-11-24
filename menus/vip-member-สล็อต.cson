@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle vip-member-สล็อต'
+      'command': 'vip-member-สล็อต:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'vip-member-สล็อต'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'vip-member-สล็อต:toggle'
+        }
+      ]
+    ]
+  }
+]

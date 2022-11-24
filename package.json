@@ -1,0 +1,23 @@
+{
+  "name": "vip-member",
+  "main": "./lib/vip-member-สล็อต",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "vip members",
+    "vip membership",
+    "vip slot club",
+    "vip memberทางเข้า",
+    "สล็อตpg vip"
+  ],
+  "activationCommands": {
+    "atom-workspace": "vip-member-สล็อต:toggle"
+  },
+  "repository": "https://github.com/slotteam168/vip-member-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
